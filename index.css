@@ -1,0 +1,20 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+
+.products {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #ffffff;
+    border-radius:10px;
+}
+
+.main {
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+    background-color: #e0f39c;
+}
